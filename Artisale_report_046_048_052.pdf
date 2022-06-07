@@ -1,0 +1,24 @@
+UE20CS503: Fundamentals of Scalable Computing-Project
+
+Faculty	    : Dr. K.V Subramaniam
+Title		    :  Artisale
+Submitted by:  Shilpa Hegade    -PES1PG20CS052
+		           Suraj S	        -PES1PG20CS046
+		           Keerti S Mekali  -PES1PG20CS048
+
+
+Github link: https://github.com/shilpa-hegade/artisale
+Public DNS: http://ec2-3-88-230-115.compute-1.amazonaws.com:5000/
+Route:	http://ec2-3-88-230-115.compute-1.amazonaws.com:5000/api/v1/users/cart -POST, GET
+	            http://ec2-3-88-230-115.compute-1.amazonaws.com:5000/api/v1/users -POST,GET,DELETE
+
+Summary:
+•	Created a simple application called Artisale. It’s a Articraft website.
+•	This application uses text files to save the data.
+•	We have used Dockers to create artisale containers and deployed it using command docker-compose up.
+•	We have implemented POST, GET, DELETE request for Artisale.
+•	Our end points are /api/v1/users and /api/v1/users/cart.
+•	For deploying create a AWS Ubuntu instance then clone the files using GitHub link provided above. Change directory into Artisale and run Dockerfile using the docker command mentioned above.
+•	After building use the public ip and perform the operations.
+•	This project has Add user, remove user, Display user, Add items to cart, Display user cart as operation.
+•	Used Postman to send all request.

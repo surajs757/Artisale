@@ -1,0 +1,8 @@
+ar1	1	painting	ar1	1000000
+ar2	1	Pot	ar2	100000
+ar3	2	Scroll	ar3	1000000
+ar4	2	Mahatma Gandhi Pen	ar4	10000000
+ar5	3	Kismet Tablet	ar5	465367
+ar6	3	Eradication Ark	ar6	46332347
+ar7	3	Gauntlet of Faith	ar7	32434347
+ar8	4	Prime Microlith	ar8	1346433
